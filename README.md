@@ -1,4 +1,4 @@
-<h1 align="center">AB Terminal Website</h1>
+<h1 align="center">Web Terminal</h1>
 <img src="./about/preview.jpg">
 This website is built with simple HTML, CSS, and JavaScript.
 <br/>
